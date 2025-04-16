@@ -8,4 +8,4 @@
 
 ## 所需环境 Environment
 
-pytorch==1.7.0 pytorch==1.2.0无法在windows下下载入2G以上的权重，无法正常使用，不推荐。
+pytorch==1.7.0 
